@@ -8,10 +8,10 @@
 
 ## Members
 
-- **Abhinandhana** — 24I301 — GitHub: `abhinandhanar25`
-- **Guruvarshana** — 24I317 — GitHub: `Guruvarshanaa-Vasanthakumar`
+- **Abhinandhana** — 24I301 — GitHub: `abhinandanar25`
+- **Guruvarshana** — 24I317 — GitHub: `Guruvarshnaa-Vasanthakumar`
 - **Nivarthna** — 24I334 — GitHub: `Nivarthna`
-- **Pravesha** — 24I044 — GitHub: `Pravesha06`
+- **Pravesha** — 24I342 — GitHub: `Pravesha06`
 - **Sharmisthaa** — 24I376 — GitHub: `sharmisthaa3`
 
 **Presentation video:**  
@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1FsxJFgREwdcexenaXr_8WA6CK4jb_WHC/view?usp=shari
 | Abhinandhana (24I301, `abhinandhanar25`) | `code/generate_inputs.py`, `contributions/24i301_Abhinandhana_complexity_worst_case.md` | Input generation and complexity / worst-case analysis |
 | Guruvarshana (24I317, `Guruvarshanaa-Vasanthakumar`) | `code/rejected_alternative.py`, `contributions/24i317_Guruvarshana_algorithm_trace_proof.md` | Rejected alternative and algorithm trace / correctness discussion |
 | Nivarthna (24I334, `Nivarthna`) | `slides.pdf`, `slides.pptx`, `contributions/24i334_Nivarthna_problem_model_data_structures.md` | Problem modelling, data representation, and presentation materials |
-| Pravesha (24I044, `Pravesha06`) | `code/benchmark.py`, `results/timing.csv`, `results/timing_plot.png`, `contributions/24i044_Pravesha_implementation_results.md` | Benchmarking and experimental results |
+| Pravesha (24I344, `Pravesha06`) | `code/benchmark.py`, `results/timing.csv`, `results/timing_plot.png`, `contributions/24i044_Pravesha_implementation_results.md` | Benchmarking and experimental results |
 
 Each member should commit their own contribution using their own GitHub account. The table should reflect the work actually completed by each member.
 
