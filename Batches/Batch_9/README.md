@@ -196,9 +196,9 @@ Thus, if each recursive multiplication returns the correct product and the base 
 ## 11. Presentation
 
 **Presentation video:**  
-https://drive.google.com/file/d/1FsxJFgREwdcexenaXr_8WA6CK4jb_WHC/view?usp=sharing
+https://drive.google.com/file/d/1PX1kYbJo93EyHBOFBivYuSxJBjUKtez5/view?usp=sharing
 
-The presentation should cover:
+The presentation covers:
 
 1. Problem statement and input/output model.
 2. Why large-number multiplication is relevant to HSM.
@@ -209,7 +209,11 @@ The presentation should cover:
 7. Experimental methodology, timing plot, and limitations.
 8. Conclusion and each member's contribution.
 
-All five members should present their assigned parts in the video. Keep the video within the instructor's time limit and ensure that anyone with the link can view it.
+slides:
+https://drive.google.com/file/d/1dGJeSKbqtP6EwAOuNM_ZqG72q9MaDX5c/view?usp=sharing
+
+analysis:
+https://drive.google.com/file/d/1utmb646edq0J_yv0p2NhIBES4A3mQsle/view?usp=sharing
 
 ## 12. Conclusion
 
