@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate deterministic input sizes for the benchmark."""
+
 import random
 def make_pair(digits, seed=2026):
     rng = random.Random(seed + digits)
